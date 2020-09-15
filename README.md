@@ -1,2 +1,1 @@
-# rsschool-cv
-CV
+https://aknrdlt.github.io/rsschool-cv/cv
